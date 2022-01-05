@@ -7,8 +7,11 @@ class ButtonAddWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return FloatingActionButton(
-      child: Icon(Icons.add),
+    return IconButton(
+      icon: const Icon(Icons.add_circle_rounded),
+      iconSize: 42,
+      tooltip: 'Adicionar nota',
+      color: Colors.purple,
       onPressed: onPressed,
     );
   }
