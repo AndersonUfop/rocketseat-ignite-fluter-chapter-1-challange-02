@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anderson/Ignite/flutter/modulo-2/notes/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/anderson/Ignite/flutter/rocketseat-ignite-flutter-chapter-1-challange-02/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/anderson/Ignite/flutter/modulo-2/notes/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/anderson/Ignite/flutter/rocketseat-ignite-flutter-chapter-1-challange-02/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
